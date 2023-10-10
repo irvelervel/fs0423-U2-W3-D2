@@ -1,0 +1,11 @@
+{
+  "firstName": "Mario",
+  "lastName": "Rossi",
+  "age": 25,
+  "languages": ["JS", "Java", "Python"],
+  "area": {
+    "country": "Italy",
+    "region": "Latium",
+    "goodPlace": true
+  }
+}
